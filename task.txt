@@ -1,0 +1,4 @@
+read spi in
+ 
+every 0.5s
+uart output pos 
